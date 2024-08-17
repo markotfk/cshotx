@@ -1,0 +1,10 @@
+name: CrackshotX
+version: 0.0.1
+main: fi.dy.area61.CrackshotXPlugin
+description: add description here
+authors: [Maguz, Ninjaundski]
+website: https://papermc.io
+api-version: '1.21.1'
+libraries:
+  - com.google.guava:guava:30.1.1-jre
+  - com.google.code.gson:gson:2.8.6

@@ -1,1 +1,2 @@
 # cshotx
+Paper plugin
