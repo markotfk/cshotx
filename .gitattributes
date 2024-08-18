@@ -2,6 +2,8 @@
 # Force Batch files to CRLF
 *.bat eol=crlf -text
 
+/gradlew        text eol=lf
+
 # Java sources
 *.java          text diff=java
 *.kt            text diff=java
