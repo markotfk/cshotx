@@ -1,6 +1,6 @@
-name: CrackshotX
+name: CShotX
 version: 0.0.1
-main: fi.dy.area61.CrackshotXPlugin
+main: fi.dy.area61.CShotXPlugin
 description: add description here
 authors: [Maguz, Ninjaundski]
 website: https://papermc.io
